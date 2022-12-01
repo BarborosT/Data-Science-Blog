@@ -9,4 +9,9 @@ Veri herhangi bir nesne ile bağlantısı olan bilgilere denir. Örnek olarak bi
 
 <br/>
 
-### Veri Bilimi Nedir ? 
+Veri Bilimi, "iş için anlamlı öngörüler ayıklamak amacıyla veriler üzerinde gerçekleştirilen çalışmalrın adıdır." evet tanım bu ama gerçekten veri günlük hayatımızda nasıl işe yarıyor?  <br/>
+
+Veri bilimi aslında doğrudan iş dünyasını etkilemektedir. Veri bilimi sayesinde  işletmlerin maliyetleri düşürmesinden tutun, rekabette avantaj kadar fayda  sağlamaktadır. <br/>
+
+Yine veri bilimi sayseinde işletmelrin üretim, pazarlama, satış ve reklam planları hazırlanmasında ve geliştirilmesinde kullanılmaktadır.
+Tabii bunu sayesinde ürün ve hizmet sunulurken en verimli şekilde veri biliminden faydalanılıyor. Yani aslında tam bu dünyada nefes alıyor bu bilim. Hepimiz bunların ne işe yaradığını az çok biliyourz evet ama veri bilimi sayesinde daha kullanışlı daha yararlı ve karlı olduğunu biliyor muydunuz ? İşte veri bilimi bu sorunların cevabını veriyor.
