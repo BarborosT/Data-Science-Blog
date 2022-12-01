@@ -6,3 +6,7 @@ Aslında kısaca bu olaya şu pencereden bakmak bizi veri bilimi alanında çok 
 Gelin ilk olarak veri nedir ? size bu sorusuna cevap verelim <br/>
 <br/>
 Veri herhangi bir nesne ile bağlantısı olan bilgilere denir. Örnek olarak bizlerin kişisel bilgileri (TC,Ad-Soyad-Doğum Tarihi,Doğrum-Yeri,Kan gurubu vb.) veri değeri taşımaktadır. Verilerin dijital ortamda depolanması, değiştirlimesi, düzenlenmesi veri yönetimini ciddi şekilde yardımcı olan bir veri işleme şeklidir. Tabi bu verilerin bir de sınıflandırması var bu sınıflandırma işlemleride en büyük hacim kapsayan <storng>Büyük Veri Anlaizi<storng/> yer almaktadır bu verilerde büyük veri kategorisinde değerlendirilmektedir.
+
+<br/>
+
+### Veri Bilimi Nedir ? 
